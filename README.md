@@ -1,24 +1,15 @@
-# Secure Access Prank Terminal
+# Prank Terminal v4 Complete — 201-code build
 
-A standalone, mobile-friendly GitHub Pages prank site. All effects run inside one page, without third-party scripts, external redirects or network requests.
+Upload `index.html` and `jumpscare.png` to the root of your GitHub Pages repository.
 
-## Deploy
-1. Create a public GitHub repository.
-2. Upload `index.html` to the repository root.
-3. Open **Settings → Pages**, choose **Deploy from a branch**, select `main` and `/ (root)`, then save.
-4. Open the GitHub Pages URL shown in Settings → Pages.
+- `0000`: searchable directory with the only in-site EXIT control.
+- 200 prank PINs are registered and launch in-page.
+- `1111` remains reserved for a future customisable prank builder, and is not implemented.
+- `rickroll.mp3`: optional; add a licensed audio file with this exact name next to index.html to enable the looping Rickroll soundtrack.
+- The original jumpscare image is included.
+- No device permissions, OS changes, file access, external navigation, or real notifications.
+- Some of the 200 pranks are distinct themed variations of shared scene engines, not 200 independently authored animations. Enhanced scenes include shattered glass, OLED damage, BSOD, Windows/mobile update, diagnostics, and interactive challenges.
+- iPhone Safari may keep browser controls visible; audio depends on autoplay policy.
+- Performance and visual quality vary by device. For safety, do not use simulated emergency/security messages to impersonate real authorities or collect credentials.
 
-## Codes
-- 0000 — directory
-- 7392 — jumpscare
-- 4618 — in-page Rickroll tribute (original animation and synthesized music, not the copyrighted video)
-- 8253 — fake error
-- 2947 — 60-second countdown
-- 5831 — Matrix rain
-- 9062 — haunted terminal
-- 1479 — fake Windows update
-- 6384 — infinite loading
-- 3726 — disco
-- 8519 — shattered-screen simulation
-
-Press EXIT PRANK or Escape to return. Sounds start only after a user action. All effects are simulations and do not alter the device.
+Testing: code registry uniqueness and JavaScript syntax validated. Full device/browser testing is not claimed.
